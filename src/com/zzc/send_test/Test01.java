@@ -8,8 +8,4 @@ public class Test01 {
     public static void method01() {
         System.out.println("method01");
     }
-
-    public static void method01() {
-        System.out.println("method01");
-    }
 }
